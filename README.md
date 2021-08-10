@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![movies_api](https://user-images.githubusercontent.com/32243863/128832865-dac0c056-7fb1-4b5b-82c0-f9789198764a.PNG)
 
 This project is a starting point for a Flutter application.
 
